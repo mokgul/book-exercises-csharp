@@ -3,31 +3,31 @@
 using Chapter02;
 
 // Ex. "Calculate square area"
-//SquareArea.Calculate();
+SquareArea.Calculate();
 
 // Ex. "Inch to cm converter"
-//InchToCm.Convert();
+InchToCm.Convert();
 
 // Ex. "Concatenation of text and numbers"
-//Concatenation.Perform();
+Concatenation.Perform();
 
 // Ex. "Calculate trapezoid area"
-//TrapezoidArea.Calculate();
+TrapezoidArea.Calculate();
 
 // Ex. "Calculate area of rectangle in 2D space
-//RectangleArea.CalculateAreaIn2dSpace();
+RectangleArea.CalculateAreaIn2dSpace();
 
 // Ex. "Calculate triangle area"
-//TriangleArea.Calculate();
+TriangleArea.Calculate();
 
 // Ex. "Celsius to Fahrenheit Converter"
-//CelsToFahr.Convert();
+CelsToFahr.Convert();
 
 // Ex. "Radians to Degrees Converter"
-//RadToDeg.Convert();
+RadToDeg.Convert();
 
 // Ex. "USD to BGN Converter"
-//UsdToBgn.Convert();
+UsdToBgn.Convert();
 
 // Ex. "Currency converter"
 //CurrencyConverter.Convert();
