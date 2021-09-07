@@ -12,26 +12,13 @@
     <projectFile>Chapter10/Chapter10.csproj</projectFile>
     <projectFile>Chapter11/Chapter11.csproj</projectFile>
     <projectFile>Chapter12/Chapter12.csproj</projectFile>
-    <projectFile>Chapter13/Chapter13.csproj</projectFile>
-    <projectFile>Chapter14/Chapter14.csproj</projectFile>
-    <projectFile>Chapter15/Chapter15.csproj</projectFile>
-    <projectFile>Chapter16/Chapter16.csproj</projectFile>
-    <projectFile>Chapter18/Chapter18.csproj</projectFile>
-    <projectFile>Chapter19/Chapter19.csproj</projectFile>
-    <projectFile>Chapter20/Chapter20.csproj</projectFile>
-    <projectFile>Chapter21/Chapter21.csproj</projectFile>
-    <projectFile>Chapter22/Chapter22.csproj</projectFile>
-    <projectFile>Chapter23/Chapter23.csproj</projectFile>
-    <projectFile>Chapter24/Chapter24.csproj</projectFile>
     <projectFile>Chapter3/Chapter3.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af2f122-17ba-490a-80b5-eec84e38ed55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6af2f122-17ba-490a-80b5-eec84e38ed55" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,20 +43,14 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/mokgul/book-exercises-csharp.git&quot;,
-    &quot;accountId&quot;: &quot;0e114d5e-ad25-4772-9b83-dba03066e50f&quot;
+    &quot;accountId&quot;: &quot;a2744775-8cd6-4426-999a-0e168955e3bf&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2751717585458aa1dbe99c7f42f3f766ef4766fceb192028c1cdbfd3521331/EncodingTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0b06ba9cce6ff8e9318af3d1dafc0c0ed59333a6af154491a8dffdaa0dba8/IOException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6780d13016c376c4491c5618b257d84da7eacf747ed2719783e775546b79b/ThrowHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7f8bab2ddd1a86312228e89db53ca668c6a6584aaf9c02761dcd3d728f5fc3e/Number.Parsing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter01/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter03/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Chapter23/Exercise01.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Chapter23/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Chapter24/Exercise01.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Chapter24/Exercise02.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Chapter24/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -83,41 +64,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Chapter01.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter02.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter03.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter04.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter05.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter06.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter07.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter08.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter09.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter10.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter11.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter12.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter13.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter15.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter16.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter18.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter20.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter22.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter3.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Chapter01.executor": "Run",
+    ".NET Project.Chapter02.executor": "Run",
+    ".NET Project.Chapter03.executor": "Run",
+    ".NET Project.Chapter04.executor": "Run",
+    ".NET Project.Chapter05.executor": "Run",
+    ".NET Project.Chapter06.executor": "Run",
+    ".NET Project.Chapter07.executor": "Run",
+    ".NET Project.Chapter08.executor": "Run",
+    ".NET Project.Chapter09.executor": "Run",
+    ".NET Project.Chapter10.executor": "Run",
+    ".NET Project.Chapter11.executor": "Run",
+    ".NET Project.Chapter12.executor": "Run",
+    ".NET Project.Chapter3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "discord-application",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.Chapter22">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.Chapter12">
     <configuration name="Chapter01" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -739,271 +714,7 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Chapter13" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter13/Chapter13.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter14" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter14/Chapter14.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter15" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter15/Chapter15.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter16" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter16/Chapter16.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter18" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter18/Chapter18.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter19" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter19/Chapter19.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter20" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter20/Chapter20.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter21" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ Chapter21/Chapter21.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter22" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter22/Chapter22.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter23" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter23/Chapter23.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Chapter24" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="ENV_FILE_PATHS" value="" />
-      <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter24/Chapter24.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue=".NET Project.Chapter24" />
-      <item itemvalue=".NET Project.Chapter23" />
-      <item itemvalue=".NET Project.Chapter22" />
-      <item itemvalue=".NET Project.Chapter21" />
-      <item itemvalue=".NET Project.Chapter20" />
-      <item itemvalue=".NET Project.Chapter19" />
-      <item itemvalue=".NET Project.Chapter18" />
-      <item itemvalue=".NET Project.Chapter16" />
-      <item itemvalue=".NET Project.Chapter15" />
-      <item itemvalue=".NET Project.Chapter14" />
-      <item itemvalue=".NET Project.Chapter13" />
       <item itemvalue=".NET Project.Chapter12" />
       <item itemvalue=".NET Project.Chapter11" />
       <item itemvalue=".NET Project.Chapter10" />
@@ -1055,28 +766,6 @@
       <workItem from="1750702437780" duration="3550000" />
       <workItem from="1750786651279" duration="4061000" />
       <workItem from="1750870991031" duration="3664000" />
-      <workItem from="1751558774094" duration="3053000" />
-      <workItem from="1751656315976" duration="1463000" />
-      <workItem from="1751657789786" duration="12000" />
-      <workItem from="1751717410723" duration="1310000" />
-      <workItem from="1751737762903" duration="4127000" />
-      <workItem from="1751822463314" duration="2620000" />
-      <workItem from="1752344006900" duration="2328000" />
-      <workItem from="1752430274356" duration="2439000" />
-      <workItem from="1752512323061" duration="3168000" />
-      <workItem from="1752685902970" duration="4155000" />
-      <workItem from="1752774284882" duration="4385000" />
-      <workItem from="1752846883454" duration="1071000" />
-      <workItem from="1752863615740" duration="4206000" />
-      <workItem from="1752928799825" duration="3320000" />
-      <workItem from="1752945666133" duration="2623000" />
-      <workItem from="1753210236843" duration="864000" />
-      <workItem from="1753291959889" duration="8431000" />
-      <workItem from="1753635155183" duration="6035000" />
-      <workItem from="1753899586413" duration="1707000" />
-      <workItem from="1754680333943" duration="977000" />
-      <workItem from="1755015078791" duration="4931000" />
-      <workItem from="1755277903426" duration="1311000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -1222,135 +911,7 @@
       <option name="project" value="LOCAL" />
       <updated>1750874597145</updated>
     </task>
-    <task id="LOCAL-00019" summary="Chapter 13: -8">
-      <option name="closed" value="true" />
-      <created>1751657625241</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1751657625241</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Chapter 13: -18">
-      <option name="closed" value="true" />
-      <created>1751740666874</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1751740666874</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Chapter 13: full">
-      <option name="closed" value="true" />
-      <created>1751824471409</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1751824471409</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Chapter14: -7">
-      <option name="closed" value="true" />
-      <created>1752345656130</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1752345656130</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Chapter 14: -14">
-      <option name="closed" value="true" />
-      <created>1752432530538</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1752432530538</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Chapter 14: -full">
-      <option name="closed" value="true" />
-      <created>1752514727092</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1752514727092</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Chapter 15: -4">
-      <option name="closed" value="true" />
-      <created>1752690405846</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1752690405846</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Chapter 15: -full">
-      <option name="closed" value="true" />
-      <created>1752778174035</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1752778174035</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Chapter 16: -9">
-      <option name="closed" value="true" />
-      <created>1752867194851</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1752867194851</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Chapter 16: -full">
-      <option name="closed" value="true" />
-      <created>1752948234391</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1752948234391</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Chapter 18: -3">
-      <option name="closed" value="true" />
-      <created>1753211085174</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1753211085174</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Chapter 18: -full">
-      <option name="closed" value="true" />
-      <created>1753295059372</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1753295059372</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Chapter 19: -full">
-      <option name="closed" value="true" />
-      <created>1753467123033</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1753467123033</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Chapter 21: -meh">
-      <option name="closed" value="true" />
-      <created>1753900531428</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1753900531428</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Chapter 22: -full">
-      <option name="closed" value="true" />
-      <created>1755016528715</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1755016528715</updated>
-    </task>
-    <task id="LOCAL-00034" summary="CH22-O7-RF">
-      <option name="closed" value="true" />
-      <created>1755016851670</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1755016851670</updated>
-    </task>
-    <option name="localTasksCounter" value="35" />
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1371,6 +932,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Chapter 2" />
+    <MESSAGE value="Chapter 3: Exercises 1-10" />
+    <MESSAGE value="Missing Chapter 2 and gitignore fix" />
+    <MESSAGE value="chapter 3" />
+    <MESSAGE value="Chapter 4: 01-05" />
+    <MESSAGE value="Chapter 4 - full" />
+    <MESSAGE value="Chapter 5 - full" />
+    <MESSAGE value="Chapter 6 - full" />
+    <MESSAGE value="Chapter 7: 1-8" />
     <MESSAGE value="Chapter 7: 8 - 13" />
     <MESSAGE value="Chapter 07: 14-25" />
     <MESSAGE value="Chapter 08: 1 - 3" />
@@ -1380,23 +950,7 @@
     <MESSAGE value="Chapter 11: 1-6" />
     <MESSAGE value="Chapter 11: 9 - 12" />
     <MESSAGE value="Chapter12" />
-    <MESSAGE value="Chapter 13: -8" />
-    <MESSAGE value="Chapter 13: -18" />
-    <MESSAGE value="Chapter 13: full" />
-    <MESSAGE value="Chapter14: -7" />
-    <MESSAGE value="Chapter 14: -14" />
-    <MESSAGE value="Chapter 14: -full" />
-    <MESSAGE value="Chapter 15: -4" />
-    <MESSAGE value="Chapter 15: -full" />
-    <MESSAGE value="Chapter 16: -9" />
-    <MESSAGE value="Chapter 16: -full" />
-    <MESSAGE value="Chapter 18: -3" />
-    <MESSAGE value="Chapter 18: -full" />
-    <MESSAGE value="Chapter 19: -full" />
-    <MESSAGE value="Chapter 21: -meh" />
-    <MESSAGE value="Chapter 22: -full" />
-    <MESSAGE value="CH22-O7-RF" />
-    <option name="LAST_COMMIT_MESSAGE" value="CH22-O7-RF" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1438,19 +992,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Chapter13/Exercise24.cs</url>
-          <line>6</line>
-          <properties documentPath="$PROJECT_DIR$/Chapter13/Exercise24.cs" containingFunctionPresentation="Method 'ReplaceLetters'">
-            <startOffsets>
-              <option value="109" />
-            </startOffsets>
-            <endOffsets>
-              <option value="149" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
