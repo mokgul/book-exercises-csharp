@@ -37,3 +37,13 @@ Exercise09.IsPointInsideCircleAndOutsideRectangle(3, 2);
 Exercise10.OperationsOnNumber(2025);
 
 // Exercise 11
+Exercise11.MoveBits(35, 6);
+
+// Exercise 12
+Exercise12.IsBitOne(15,2);
+
+// Exercise 13
+Exercise13.CheckValue(1, 3, 2);
+
+// Exercise 14
+Exercise14.IsPrime(23);

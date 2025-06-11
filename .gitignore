@@ -1,45 +1,6 @@
-/.idea/.idea.book-exercises-csharp.dir/.idea/.gitignore
-/Chapter01/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
-/Chapter01/obj/Debug/net8.0/apphost
-/Chapter01/obj/Debug/net8.0/Chapter 1  Intro.AssemblyInfo.cs
-/Chapter01/obj/Debug/net8.0/Chapter 1  Intro.AssemblyInfoInputs.cache
-/Chapter01/obj/Debug/net8.0/Chapter 1  Intro.assets.cache
-/Chapter01/obj/Chapter 1  Intro.csproj.nuget.dgspec.json
-/Chapter01/obj/Chapter 1  Intro.csproj.nuget.g.props
-/Chapter01/obj/Chapter 1  Intro.csproj.nuget.g.targets
-/Chapter01/obj/Debug/net8.0/Chapter 1  Intro.GeneratedMSBuildEditorConfig.editorconfig
-/Chapter01/obj/Debug/net8.0/Chapter 1  Intro.GlobalUsings.g.cs
-/Chapter01/bin/Debug/net8.0/Chapter01
-/Chapter01/obj/Debug/net8.0/Chapter01.AssemblyInfo.cs
-/Chapter01/obj/Debug/net8.0/Chapter01.AssemblyInfoInputs.cache
-/Chapter01/obj/Debug/net8.0/Chapter01.assets.cache
-/Chapter01/obj/Debug/net8.0/Chapter01.csproj.CoreCompileInputs.cache
-/Chapter01/obj/Debug/net8.0/Chapter01.csproj.FileListAbsolute.txt
-/Chapter01/obj/Chapter01.csproj.nuget.dgspec.json
-/Chapter01/obj/Chapter01.csproj.nuget.g.props
-/Chapter01/obj/Chapter01.csproj.nuget.g.targets
-/Chapter01/bin/Debug/net8.0/Chapter01.deps.json
-/Chapter01/bin/Debug/net8.0/Chapter01.dll
-/Chapter01/obj/Debug/net8.0/ref/Chapter01.dll
-/Chapter01/obj/Debug/net8.0/refint/Chapter01.dll
-/Chapter01/obj/Debug/net8.0/Chapter01.dll
-/Chapter01/obj/Debug/net8.0/Chapter01.GeneratedMSBuildEditorConfig.editorconfig
-/Chapter01/obj/Debug/net8.0/Chapter01.genruntimeconfig.cache
-/Chapter01/obj/Debug/net8.0/Chapter01.GlobalUsings.g.cs
-/Chapter01/bin/Debug/net8.0/Chapter01.pdb
-/Chapter01/obj/Debug/net8.0/Chapter01.pdb
-/Chapter01/bin/Debug/net8.0/Chapter01.runtimeconfig.json
-/Chapter01/obj/Debug/net8.0/Chapter01.sourcelink.json
-/Chapter01/Exercise06.cs
-/Chapter01/Exercise07.cs
-/Chapter01/Exercise08.cs
-/.idea/.idea.book-exercises-csharp.dir/.idea/indexLayout.xml
-/.idea/indexLayout.xml
-/Chapter01/Program.cs
-/Chapter01/obj/project.assets.json
-/Chapter01/obj/project.nuget.cache
-/Chapter01/obj/project.packagespec.json
-/Chapter01/obj/rider.project.model.nuget.info
-/Chapter01/obj/rider.project.restore.info
-/.idea/.idea.book-exercises-csharp.dir/.idea/vcs.xml
-/.idea/vcs.xml
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+**/.env
