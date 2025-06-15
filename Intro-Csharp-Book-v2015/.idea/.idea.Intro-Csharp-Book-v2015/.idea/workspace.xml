@@ -5,6 +5,7 @@
     <projectFile>Chapter02/Chapter02.csproj</projectFile>
     <projectFile>Chapter04/Chapter04.csproj</projectFile>
     <projectFile>Chapter05/Chapter05.csproj</projectFile>
+    <projectFile>Chapter06/Chapter06.csproj</projectFile>
     <projectFile>Chapter3/Chapter3.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
@@ -62,6 +63,7 @@
     ".NET Project.Chapter03.executor": "Run",
     ".NET Project.Chapter04.executor": "Run",
     ".NET Project.Chapter05.executor": "Run",
+    ".NET Project.Chapter06.executor": "Run",
     ".NET Project.Chapter3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,7 +77,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.Chapter05">
+  <component name="RunManager" selected=".NET Project.Chapter06">
     <configuration name="Chapter01" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -191,7 +193,31 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Chapter06" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter06/Chapter06.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue=".NET Project.Chapter06" />
       <item itemvalue=".NET Project.Chapter05" />
       <item itemvalue=".NET Project.Chapter04" />
       <item itemvalue=".NET Project.Chapter01" />
@@ -216,7 +242,8 @@
       <workItem from="1749755658802" duration="5674000" />
       <workItem from="1749772315199" duration="1000" />
       <workItem from="1749837266187" duration="7455000" />
-      <workItem from="1749900113595" duration="11572000" />
+      <workItem from="1749900113595" duration="13050000" />
+      <workItem from="1749983481161" duration="15614000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -266,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749844183632</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Chapter 5 - full">
+      <option name="closed" value="true" />
+      <created>1749919755436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749919755436</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +317,8 @@
     <MESSAGE value="chapter 3" />
     <MESSAGE value="Chapter 4: 01-05" />
     <MESSAGE value="Chapter 4 - full" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 4 - full" />
+    <MESSAGE value="Chapter 5 - full" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 5 - full" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
