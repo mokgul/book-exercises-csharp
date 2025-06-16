@@ -5,39 +5,39 @@ using Chapter04;
 // Exercise01
 Exercise01.ReadAndSumNumbers();
 
-// Exercise02
+// Exercise 02
 Exercise02.CalculateCircleAreaAndPerimeter();
 
-// Exercise03
+// Exercise 03
 Exercise03.ReadCompanyInformation();
 
-// Exercise04
+// Exercise 04
 Exercise04.PrintNumbersWithIndent();
 
-// Exercise05
+// Exercise 05
 Exercise05.PrintCoundNumbersDivisibleByFiveInRange();
 
-// Exercise06
+// Exercise 06
 Exercise06.BiggerNumber();
 
-// Exercise07
+// Exercise 07
 Exercise07.EnterAndPrintNumbersUsingGoTo();
 Exercise07.EnterAndPrintNumbersUsingWhile();
 
-// Exercise08
+// Exercise 08
 Exercise08.PrintBiggestNumber();
 
-// Exercise09
+// Exercise 09
 Exercise09.SolveQuadricEquation();
 
-// Exercise10
+// Exercise 10
 Exercise10.PrintSumOfNumbers();
 
-// Exercise11
+// Exercise 11
 Exercise11.PrintNumbersInRange();
 
-// Exercise12
+// Exercise 12
 Exercise12.Fibonacci();
 
-// Exercise13
+// Exercise 13
 Exercise13.SumFractionalNums();

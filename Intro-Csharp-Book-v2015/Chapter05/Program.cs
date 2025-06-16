@@ -2,44 +2,44 @@
 
 using Chapter05;
 
-// Exercise01
+// Exercise 01
 Exercise01.CompareAndReverse(11, 41);
 
-// Exercise02
+// Exercise 02
 Exercise02.CheckMultiplicationResultSign(12, 2, 3);
 Exercise02.CheckMultiplicationResultSign(12, -2, -3);
 Exercise02.CheckMultiplicationResultSign(-12, -2, -3);
 
-// Exercise03
+// Exercise 03
 Exercise03.BiggestNumber(1, 7, 12);
 
-// Exercise04
+// Exercise 04
 Exercise04.SortNumbersIfStatements(1, 23, 15);
 Exercise04.SortingNumbersUsingMathLibrary(-2, 13, -4.5);
 Exercise04.SortingNumbersUsingArray(-1, -2, -4.5);
 
-// Exercise05
+// Exercise 05
 Exercise05.PrintNumberName();
 
-// Exercise06
+// Exercise 06
 Exercise06.SolveQuadricEquation();
 
-// Exercise07
+// Exercise 07
 Exercise07.PrintBiggestNumber([1, 23, 7, 44, 27]);
 
-// Exercise08
+// Exercise 08
 Exercise08.PrintVariable();
 
-// Exercise09
+// Exercise 09
 Exercise09.PrintSubsetsEqualToZero([-4, -1, 0, 1, 4]);
 
-// Exercise10
+// Exercise 10
 Exercise10.PrintPoints(0);
 Exercise10.PrintPoints(3);
 Exercise10.PrintPoints(7);
 Exercise10.PrintPoints(11);
 
-// Exercise11
+// Exercise 11
 Exercise11.PrintNumberInWords(-12);
 Exercise11.PrintNumberInWords(0);
 Exercise11.PrintNumberInWords(12);
