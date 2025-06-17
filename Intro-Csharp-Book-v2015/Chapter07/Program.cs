@@ -24,4 +24,25 @@ using Chapter07;
 //Exercise07.MaxSumOfKElementsInArray();
 
 // Exercise 08
-Exercise08.ArraySelectionSort([9, 6, 2, 3, 4, 7, 1, 5, 8]);
+//Exercise08.ArraySelectionSort([9, 6, 2, 3, 4, 7, 1, 5, 8]);
+
+// Exercise 09
+//Exercise09.MaxSequenceSum([2, 3, -6, -1, 2, -1, 6, 4, -8, 8]);
+//Exercise09.MaxSequenceSum([-2, -3, 4, -1, -2, 1, 5, -3]);
+//Exercise09.MaxSequenceSum([-5, -1, -8, -9 ]);
+//Exercise09.MaxSequenceSum([1, 2, 3, 4, 5]);
+//Exercise09.MaxSequenceSum([5, -9, 6, -2, 3]);
+
+// Exercise 10
+//Exercise10.MostCommonElementInArray([4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3]);
+
+// Exercise 11
+//Exercise11.FindArrayElementsEqualToSumNumber([4, 3, 1, 4, 2, 5, 8]);
+//Exercise11.FindArrayElementsEqualToSumNumber([1, 2, 3, 4, 5]);
+//Exercise11.FindArrayElementsEqualToSumNumber([5, -2, 3, -1, 2]);
+
+// Exercise 12
+//Exercise12.PrintMatrixInDifferentLayouts();
+
+// Exercise 13
+Exercise13.PrintSubMatrixWithSum();

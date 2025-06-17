@@ -15,12 +15,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6af2f122-17ba-490a-80b5-eec84e38ed55" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter01/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter01/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter02/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter02/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter04/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter04/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter05/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter05/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter06/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter06/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter07/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter07/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,7 @@
     ".NET Project.Chapter04.executor": "Run",
     ".NET Project.Chapter05.executor": "Run",
     ".NET Project.Chapter06.executor": "Run",
-    ".NET Project.Chapter07.executor": "Debug",
+    ".NET Project.Chapter07.executor": "Run",
     ".NET Project.Chapter3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -421,7 +416,9 @@
       <workItem from="1750016980445" duration="1681000" />
       <workItem from="1750088187358" duration="1606000" />
       <workItem from="1750089835388" duration="353000" />
-      <workItem from="1750090222067" duration="9477000" />
+      <workItem from="1750090222067" duration="10632000" />
+      <workItem from="1750174504748" duration="7076000" />
+      <workItem from="1750183969799" duration="4353000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -487,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750006784783</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Chapter 7: 1-8">
+      <option name="closed" value="true" />
+      <created>1750102098604</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750102098604</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +521,8 @@
     <MESSAGE value="Chapter 4 - full" />
     <MESSAGE value="Chapter 5 - full" />
     <MESSAGE value="Chapter 6 - full" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 - full" />
+    <MESSAGE value="Chapter 7: 1-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 7: 1-8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,17 +540,17 @@
           <option name="timeStamp" value="3" />
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Chapter07/Exercise08.cs</url>
-          <line>16</line>
-          <properties documentPath="$PROJECT_DIR$/Chapter07/Exercise08.cs" containingFunctionPresentation="Method 'ArraySelectionSort'">
+          <url>file://$PROJECT_DIR$/Chapter07/Exercise12.cs</url>
+          <line>85</line>
+          <properties documentPath="$PROJECT_DIR$/Chapter07/Exercise12.cs" containingFunctionPresentation="Method 'PrintMatrixInDifferentLayouts'">
             <startOffsets>
-              <option value="421" />
+              <option value="2341" />
             </startOffsets>
             <endOffsets>
-              <option value="442" />
+              <option value="2342" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
