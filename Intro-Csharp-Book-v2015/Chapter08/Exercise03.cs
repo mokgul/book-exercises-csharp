@@ -9,5 +9,6 @@ public static class Exercise03
 
         string hex = Convert.ToString(hexadecimal, 16);
         Console.WriteLine(hex);
+
     }
 }
