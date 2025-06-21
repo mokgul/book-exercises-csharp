@@ -18,32 +18,94 @@ A collection of exercises, code samples, and learning notes from various C# prog
 
 ---
 
-## 📁 Repository Structure (Example)
-```
-book-exercises-csharp/
-└── CleanCode/
-    ├── README.md           # Summary/overview of the book
-    ├── Chapter01/
-    │   ├── Chapter01.csproj  # Project holding exercises for Chapter 1
-    │   ├── Exercise01.cs
-    │   ├── Exercise02.cs
-    │   └── notes.md         # Optional notes for Chapter 1
-    ├── Chapter02/
-    │   ├── Chapter02.csproj
-    │   ├── Exercise01.cs
-    │   └── notes.md
-    └── notes.md             # General notes about the book or overall thoughts
-```
+# 📘 .NET & C# Learning Roadmap (44 Books)
 
-Each book is stored in its own folder. For example, the `CleanCode` folder contains:
+A complete, progressive path using all your books. Check them off as you go ✅
 
-- `README.md` — A summary and overview of the book.
-- One subfolder per chapter (`Chapter01`, `Chapter02`, etc.).
-- Each chapter folder contains:
-  - A C# project file (`.csproj`) which groups all exercises for that chapter.
-  - Exercise source files (`.cs`) implementing the solutions.
-  - An optional `notes.md` file for chapter-specific observations, key concepts, or tips.
-- A `notes.md` at the book root can hold general thoughts, overall progress, or additional remarks.
+---
+
+## 🟢 Phase 1: C# Fundamentals & Core Programming
+- [ ] Intro CSharp Book v2015.pdf
+- [ ] Programming Basics CSharp v2017.pdf
+- [ ] Programming Basics CSharp v2019.pdf
+- [ ] CSharp Principles Book v2018.pdf
+- [ ] Learn C# for Beginners with Hands-on Project.pdf
+- [ ] Object Oriented Programming C# Succinctly.pdf
+- [ ] The C# Workshop.pdf
+
+---
+
+## 🟡 Phase 2: Intermediate C# Concepts
+- [ ] C# 10 and dotNET 6 - Modern Cross-Platform Development.pdf
+- [ ] C# 13 and dotNET 9 Modern Cross-Platform Development.pdf
+- [ ] Effective dotNET Memory Management.pdf
+- [ ] C# and Algorithmic Thinking For The Complete Beginner.pdf
+- [ ] C# Data Structures and Algorithms Second Edition.pdf
+- [ ] C# Interview Guide.pdf
+
+---
+
+## 🔵 Phase 3: ASP.NET Core Basics & Essentials
+- [ ] ASP.NET Core 5 Secure Coding Cookbook.pdf
+- [ ] ASP.NET Core Recipes - A Problem-Solution Approach.pdf
+- [ ] ASP.NET Core 9 Essentials.pdf
+- [ ] Architecting ASP.NET Core Applications.pdf
+- [ ] Minimal APIs in ASP.NET Core 9.pdf
+- [ ] Modern Full-Stack Web Development with ASP.NET Core.pdf
+
+---
+
+## 🟣 Phase 4: Frontend with Blazor & UI
+- [ ] Bootstrap for ASP.NET MVC – Second Edition.pdf
+- [ ] Web Development with Blazor.pdf
+- [ ] Blazor Web Development Cookbook.pdf
+- [ ] Creating Cross-Platform C# Applications with Uno Platform.pdf
+- [ ] doNET MAUI Cookbook.pdf
+
+---
+
+## 🟤 Phase 5: Full Stack Development
+- [ ] ASP.NET Core 6 and Angular.pdf
+- [ ] Apps and Services with dotNET 7.pdf
+- [ ] Apps and Services with dotNET 8.pdf
+- [ ] Real-World Web Development with dotNET 9.pdf
+
+---
+
+## 🟠 Phase 6: APIs, Microservices & CLI
+- [ ] Microservices Communication in dotNET using gRPC.pdf
+- [ ] Pragmatic Microservices with C# and Azure.pdf
+- [ ] Building CLI Applications with C# and dotNET.pdf
+- [ ] Programming APIs with C# and dotNet.pdf
+
+---
+
+## 🔴 Phase 7: Architecture & Enterprise Development
+- [ ] Software Architecture with C# 10 and dotNET 6.pdf
+- [ ] Software Architecture with C# 12 and dotNET 8.pdf
+- [ ] Enterprise Application Development with C#  10 and dotNET 6.pdf
+- [ ] Enterprise Architecture with dotNET.pdf
+- [ ] High-Performance Programming in C# and dotNET.pdf
+- [ ] Systems Programming with C# and dotNET.pdf
+
+---
+
+## 🟣 Phase 8: Design Patterns & Best Practices
+- [ ] An Atypical ASPNET Core 6 Design Patterns Guide.pdf
+- [ ] Design Patterns - Elements of Reusable Object-Oriented Software.pdf
+- [ ] Dive Into Design Patterns.pdf
+
+---
+
+## ⚪ Phase 9: Testing & Developer Productivity
+- [ ] Pragmatic Test-Driven Development in C# and dotNET.pdf
+- [ ] Tools and Skills for dotNET 8.pdf
+
+---
+
+## 🌟 Optional: Specialization & Exploration
+- [ ] Wen API Development with ASP.NET Core 8.pdf
+
 
 ---
 
