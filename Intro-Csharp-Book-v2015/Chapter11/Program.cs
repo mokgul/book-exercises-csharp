@@ -21,3 +21,15 @@ Exercise05.CalculateHypothesis();
 Exercise06.CalculateAreaByAllSides(5, 6, 7);
 Exercise06.CalculateAreaBySideAndHeight(10, 6);
 Exercise06.CalculateAreaByTwoSidesAndAngle(8, 10, 30);
+
+// Exercise 09
+// Exercise09.CalculateWorkDays();
+
+// Exercise 10
+Exercise10.SumOfStringNumbers("43 68 9 23 318");
+
+// Exercise 11
+Exercise11.PrintRandomAd();
+
+// Exercise 12
+Exercise12.MathOperationsFromString("-1 + 2 + 3 * 4 - 0.5");
