@@ -11,6 +11,7 @@
     <projectFile>Chapter09/Chapter09.csproj</projectFile>
     <projectFile>Chapter10/Chapter10.csproj</projectFile>
     <projectFile>Chapter11/Chapter11.csproj</projectFile>
+    <projectFile>Chapter12/Chapter12.csproj</projectFile>
     <projectFile>Chapter3/Chapter3.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
@@ -19,7 +20,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6af2f122-17ba-490a-80b5-eec84e38ed55" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter11/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter11/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +51,10 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0b06ba9cce6ff8e9318af3d1dafc0c0ed59333a6af154491a8dffdaa0dba8/IOException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6780d13016c376c4491c5618b257d84da7eacf747ed2719783e775546b79b/ThrowHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter01/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter03/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///home/mokgul/Coding/Book Exercises/book-exercises-csharp/Intro-Csharp-Book-v2015/Chapter08/Exercise03.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -66,34 +68,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Chapter01.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter02.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter03.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter04.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter05.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter06.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter07.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter08.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter09.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter10.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter11.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter3.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Chapter01.executor": "Run",
+    ".NET Project.Chapter02.executor": "Run",
+    ".NET Project.Chapter03.executor": "Run",
+    ".NET Project.Chapter04.executor": "Run",
+    ".NET Project.Chapter05.executor": "Run",
+    ".NET Project.Chapter06.executor": "Run",
+    ".NET Project.Chapter07.executor": "Run",
+    ".NET Project.Chapter08.executor": "Run",
+    ".NET Project.Chapter09.executor": "Run",
+    ".NET Project.Chapter10.executor": "Run",
+    ".NET Project.Chapter11.executor": "Run",
+    ".NET Project.Chapter12.executor": "Run",
+    ".NET Project.Chapter3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "discord-application",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.Chapter11">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.Chapter12">
     <configuration name="Chapter01" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -692,7 +695,31 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Chapter12" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter12/Chapter12.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue=".NET Project.Chapter12" />
       <item itemvalue=".NET Project.Chapter11" />
       <item itemvalue=".NET Project.Chapter10" />
       <item itemvalue=".NET Project.Chapter09" />
@@ -741,7 +768,8 @@
       <workItem from="1750519507940" duration="5787000" />
       <workItem from="1750611805314" duration="3316000" />
       <workItem from="1750702437780" duration="3550000" />
-      <workItem from="1750786651279" duration="3286000" />
+      <workItem from="1750786651279" duration="4061000" />
+      <workItem from="1750870991031" duration="2829000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -871,7 +899,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750705630170</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Chapter 11: 9 - 12">
+      <option name="closed" value="true" />
+      <created>1750793120720</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1750793120720</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -908,7 +944,8 @@
     <MESSAGE value="Chapter 09: full" />
     <MESSAGE value="Chapter10: full" />
     <MESSAGE value="Chapter 11: 1-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 11: 1-6" />
+    <MESSAGE value="Chapter 11: 9 - 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 11: 9 - 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
