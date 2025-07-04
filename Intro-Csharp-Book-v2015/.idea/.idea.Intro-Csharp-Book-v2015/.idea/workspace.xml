@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af2f122-17ba-490a-80b5-eec84e38ed55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/shelf/Uncommitted_changes_before_Update_at_6_18_25,_9_35 PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/shelf/Uncommitted_changes_before_Update_at_6_18_25__9_35PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/shelf/Uncommitted_changes_before_Update_at_6_21_25,_7_11 PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/shelf/Uncommitted_changes_before_Update_at_6_21_25__7_11PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter13/Exercise04.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13/Exercise05.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter13/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,7 @@
     ".NET Project.Chapter10.executor": "Run",
     ".NET Project.Chapter11.executor": "Run",
     ".NET Project.Chapter12.executor": "Run",
-    ".NET Project.Chapter13.executor": "Run",
+    ".NET Project.Chapter13.executor": "Debug",
     ".NET Project.Chapter3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -800,7 +796,8 @@
       <workItem from="1750702437780" duration="3550000" />
       <workItem from="1750786651279" duration="4061000" />
       <workItem from="1750870991031" duration="3664000" />
-      <workItem from="1751558774094" duration="2375000" />
+      <workItem from="1751558774094" duration="3053000" />
+      <workItem from="1751656315976" duration="1121000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -1027,6 +1024,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Chapter13/Exercise08.cs</url>
+          <line>7</line>
+          <properties documentPath="$PROJECT_DIR$/Chapter13/Exercise08.cs" containingFunctionPresentation="Method 'ConvertToUnicode'">
+            <startOffsets>
+              <option value="131" />
+            </startOffsets>
+            <endOffsets>
+              <option value="132" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

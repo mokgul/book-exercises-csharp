@@ -1,6 +1,6 @@
 namespace Chapter13;
 
-public static class Exercise04
+public static class Exercise05
 {
     public static void CountOfKeywordInString()
     {

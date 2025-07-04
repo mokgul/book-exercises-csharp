@@ -10,5 +10,14 @@ Exercise03.AreBracketsCorrect("((a+b)/5-d)");
 Exercise03.AreBracketsCorrect(")(a+b))");
 Exercise03.AreBracketsCorrect("(((a+b))");
 
-// Exercise 04
-Exercise04.CountOfKeywordInString();
+// Exercise 05
+Exercise05.CountOfKeywordInString();
+
+// Exercise 06
+Exercise06.UpperCaseSubstrings("We are living in a <upcase>yellow submarine</upcase>. We don't\nhave <upcase>anything</upcase> else");
+
+// Exercise 07
+//Exercise07.ReadAndFillString();
+
+// Exercise 08
+Exercise08.ConvertToUnicode("some random string");
