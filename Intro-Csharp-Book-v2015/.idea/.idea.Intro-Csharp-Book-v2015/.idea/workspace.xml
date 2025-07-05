@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6af2f122-17ba-490a-80b5-eec84e38ed55" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter13/Exercise04.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13/Exercise05.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter13/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter13/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +47,14 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/mokgul/book-exercises-csharp.git&quot;,
-    &quot;accountId&quot;: &quot;a2744775-8cd6-4426-999a-0e168955e3bf&quot;
+    &quot;accountId&quot;: &quot;0e114d5e-ad25-4772-9b83-dba03066e50f&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0b06ba9cce6ff8e9318af3d1dafc0c0ed59333a6af154491a8dffdaa0dba8/IOException.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6780d13016c376c4491c5618b257d84da7eacf747ed2719783e775546b79b/ThrowHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2751717585458aa1dbe99c7f42f3f766ef4766fceb192028c1cdbfd3521331/EncodingTable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter01/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Chapter03/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/mokgul/Coding/Book Exercises/book-exercises-csharp/Intro-Csharp-Book-v2015/Chapter13/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -83,7 +82,7 @@
     ".NET Project.Chapter10.executor": "Run",
     ".NET Project.Chapter11.executor": "Run",
     ".NET Project.Chapter12.executor": "Run",
-    ".NET Project.Chapter13.executor": "Debug",
+    ".NET Project.Chapter13.executor": "Run",
     ".NET Project.Chapter3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -94,7 +93,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "discord-application",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -797,7 +796,10 @@
       <workItem from="1750786651279" duration="4061000" />
       <workItem from="1750870991031" duration="3664000" />
       <workItem from="1751558774094" duration="3053000" />
-      <workItem from="1751656315976" duration="1121000" />
+      <workItem from="1751656315976" duration="1463000" />
+      <workItem from="1751657789786" duration="12000" />
+      <workItem from="1751717410723" duration="1310000" />
+      <workItem from="1751737762903" duration="2788000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -943,7 +945,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750874597145</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Chapter 13: -8">
+      <option name="closed" value="true" />
+      <created>1751657625241</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1751657625241</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -982,7 +992,8 @@
     <MESSAGE value="Chapter 11: 1-6" />
     <MESSAGE value="Chapter 11: 9 - 12" />
     <MESSAGE value="Chapter12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter12" />
+    <MESSAGE value="Chapter 13: -8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 13: -8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1024,19 +1035,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Chapter13/Exercise08.cs</url>
-          <line>7</line>
-          <properties documentPath="$PROJECT_DIR$/Chapter13/Exercise08.cs" containingFunctionPresentation="Method 'ConvertToUnicode'">
-            <startOffsets>
-              <option value="131" />
-            </startOffsets>
-            <endOffsets>
-              <option value="132" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
