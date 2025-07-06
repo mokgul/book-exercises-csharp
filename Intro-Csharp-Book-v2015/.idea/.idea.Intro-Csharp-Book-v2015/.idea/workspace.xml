@@ -82,7 +82,7 @@
     ".NET Project.Chapter10.executor": "Run",
     ".NET Project.Chapter11.executor": "Run",
     ".NET Project.Chapter12.executor": "Run",
-    ".NET Project.Chapter13.executor": "Run",
+    ".NET Project.Chapter13.executor": "Debug",
     ".NET Project.Chapter3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -799,7 +799,8 @@
       <workItem from="1751656315976" duration="1463000" />
       <workItem from="1751657789786" duration="12000" />
       <workItem from="1751717410723" duration="1310000" />
-      <workItem from="1751737762903" duration="2788000" />
+      <workItem from="1751737762903" duration="4127000" />
+      <workItem from="1751822463314" duration="1657000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -953,7 +954,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751657625241</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Chapter 13: -18">
+      <option name="closed" value="true" />
+      <created>1751740666874</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1751740666874</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -993,7 +1002,8 @@
     <MESSAGE value="Chapter 11: 9 - 12" />
     <MESSAGE value="Chapter12" />
     <MESSAGE value="Chapter 13: -8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 13: -8" />
+    <MESSAGE value="Chapter 13: -18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 13: -18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1035,6 +1045,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Chapter13/Exercise24.cs</url>
+          <line>6</line>
+          <properties documentPath="$PROJECT_DIR$/Chapter13/Exercise24.cs" containingFunctionPresentation="Method 'ReplaceLetters'">
+            <startOffsets>
+              <option value="109" />
+            </startOffsets>
+            <endOffsets>
+              <option value="149" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -44,7 +44,31 @@ Exercise15.DisplayDictionary();
 Exercise16.ReplaceTagsInHtml();
 
 // Exercise 17
-Exercise17.DatesDifference();
+//Exercise17.DatesDifference();
 
 // Exercise 18
-Exercise18.DateAddition();
+//Exercise18.DateAddition();
+
+// Exercise 19
+Exercise19.ExtractEmails();
+
+// Exercise 20
+Exercise20.ExtractDates();
+
+// Exercise 21
+Exercise21.ExtractPalindromes();
+
+// Exercise 22
+Exercise22.CountLettersInString();
+
+// Exercise 23
+Exercise23.CountWordsInString();
+
+// Exercise 24
+Exercise24.ReplaceLetters();
+
+// Exercise 25
+Exercise25.SortWords();
+
+// Exercise 26
+Exercise26.ExtraxtTextFromHtml();
