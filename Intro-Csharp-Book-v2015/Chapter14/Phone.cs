@@ -10,6 +10,7 @@ public class Phone
     private string _owner;
     private Battery _battery;
     private Display _display;
+    private List<Call> _callHistory;
 
     private static string _nokiaN95;
     
@@ -19,6 +20,7 @@ public class Phone
         _manufacturer = manufacturer;
         _battery = battery;
         _display = display;
+        _callHistory = new List<Call>();
     }
 
     public Phone(string model, string manufacturer, Battery battery, Display display, string owner) : this(model,
@@ -81,6 +83,11 @@ public class Phone
         get => _display;
         set => _display = value;
     }
+
+    public List<Call> CallHistory
+    {
+        get => _callHistory;
+    }
     
     public void GetInfo()
     {
@@ -98,6 +105,33 @@ public class Phone
         sb.Append($"Display size: {_display.Size}\n");
         sb.Append($"Display colors: {_display.Colors}\n");
         Console.WriteLine(sb.ToString());
+    }
+
+    public void AddCall(Call call)
+    {
+        _callHistory.Add(call);
+    }
+
+    public void DeleteCall(DateTime date)
+    {
+        var toRemove = _callHistory.Find(c => c.Date == date.ToString() || c.TimeStart ==  date.ToString());
+        if (toRemove != null) _callHistory.Remove(toRemove);
+    }
+
+    public void DeleteCallHistory()
+    {
+        _callHistory.Clear();
+    }
+
+    public double CalculatePrice(double price)
+    {
+        double sum = 0;
+        foreach (var call in _callHistory)
+        {
+            sum += call.CallTime *  price;
+        }
+
+        return sum;
     }
 }
 
