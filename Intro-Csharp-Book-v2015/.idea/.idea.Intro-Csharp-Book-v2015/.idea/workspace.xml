@@ -24,7 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6af2f122-17ba-490a-80b5-eec84e38ed55" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Intro-Csharp-Book-v2015/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Intro-Csharp-Book-v2015.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter16/Exercise09.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter16/Exercise09.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter16/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter16/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,37 +73,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.Chapter01.executor": "Run",
-    ".NET Project.Chapter02.executor": "Run",
-    ".NET Project.Chapter03.executor": "Run",
-    ".NET Project.Chapter04.executor": "Run",
-    ".NET Project.Chapter05.executor": "Run",
-    ".NET Project.Chapter06.executor": "Run",
-    ".NET Project.Chapter07.executor": "Run",
-    ".NET Project.Chapter08.executor": "Run",
-    ".NET Project.Chapter09.executor": "Run",
-    ".NET Project.Chapter10.executor": "Run",
-    ".NET Project.Chapter11.executor": "Run",
-    ".NET Project.Chapter12.executor": "Run",
-    ".NET Project.Chapter13.executor": "Run",
-    ".NET Project.Chapter15.executor": "Run",
-    ".NET Project.Chapter16.executor": "Run",
-    ".NET Project.Chapter3.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.Chapter01.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter02.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter03.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter04.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter05.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter06.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter07.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter08.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter09.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter10.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter11.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter12.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter13.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter15.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter16.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Chapter3.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.Chapter16">
     <configuration name="Chapter01" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -885,7 +886,9 @@
       <workItem from="1752685902970" duration="4155000" />
       <workItem from="1752774284882" duration="4385000" />
       <workItem from="1752846883454" duration="1071000" />
-      <workItem from="1752863615740" duration="3449000" />
+      <workItem from="1752863615740" duration="4206000" />
+      <workItem from="1752928799825" duration="3320000" />
+      <workItem from="1752945666133" duration="1977000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -1095,7 +1098,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752778174035</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Chapter 16: -9">
+      <option name="closed" value="true" />
+      <created>1752867194851</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1752867194851</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1116,7 +1127,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Chapter 3: Exercises 1-10" />
     <MESSAGE value="Missing Chapter 2 and gitignore fix" />
     <MESSAGE value="chapter 3" />
     <MESSAGE value="Chapter 4: 01-05" />
@@ -1141,7 +1151,8 @@
     <MESSAGE value="Chapter 14: -full" />
     <MESSAGE value="Chapter 15: -4" />
     <MESSAGE value="Chapter 15: -full" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 15: -full" />
+    <MESSAGE value="Chapter 16: -9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 16: -9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
