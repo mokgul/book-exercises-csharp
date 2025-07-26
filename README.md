@@ -12,7 +12,7 @@ A collection of exercises, code samples, and learning notes from various C# prog
 | -                                      | -                   | 🔜 Finished    | –          | 0 / 27         | –        |
 | -                                      | -                   | 🔜 Finished    | –          | 0 / 50         | –        |
 | -                                      | -                   | 📖 In Progress | –          | 0 / 20         | –        |
-| Intro CSharp Book v2015                | Svetlin Nakov       | 📖 In Progress | 30-05-2025 | 833 / 1101     | –        |
+| Intro CSharp Book v2015                | Svetlin Nakov       | 📖 In Progress | 30-05-2025 | 837 / 1101     | –        |
 
 
 
