@@ -18,6 +18,7 @@
     <projectFile>Chapter16/Chapter16.csproj</projectFile>
     <projectFile>Chapter18/Chapter18.csproj</projectFile>
     <projectFile>Chapter19/Chapter19.csproj</projectFile>
+    <projectFile>Chapter20/Chapter20.csproj</projectFile>
     <projectFile>Chapter3/Chapter3.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
@@ -75,39 +76,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Chapter01.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter02.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter03.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter04.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter05.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter06.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter07.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter08.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter09.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter10.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter11.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter12.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter13.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter15.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter16.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter18.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Chapter3.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Chapter01.executor": "Run",
+    ".NET Project.Chapter02.executor": "Run",
+    ".NET Project.Chapter03.executor": "Run",
+    ".NET Project.Chapter04.executor": "Run",
+    ".NET Project.Chapter05.executor": "Run",
+    ".NET Project.Chapter06.executor": "Run",
+    ".NET Project.Chapter07.executor": "Run",
+    ".NET Project.Chapter08.executor": "Run",
+    ".NET Project.Chapter09.executor": "Run",
+    ".NET Project.Chapter10.executor": "Run",
+    ".NET Project.Chapter11.executor": "Run",
+    ".NET Project.Chapter12.executor": "Run",
+    ".NET Project.Chapter13.executor": "Run",
+    ".NET Project.Chapter15.executor": "Run",
+    ".NET Project.Chapter16.executor": "Run",
+    ".NET Project.Chapter18.executor": "Run",
+    ".NET Project.Chapter20.executor": "Run",
+    ".NET Project.Chapter3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.Chapter18">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.Chapter20">
     <configuration name="Chapter01" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -867,7 +869,31 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Chapter20" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Chapter20/Chapter20.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue=".NET Project.Chapter20" />
       <item itemvalue=".NET Project.Chapter19" />
       <item itemvalue=".NET Project.Chapter18" />
       <item itemvalue=".NET Project.Chapter16" />
@@ -941,7 +967,8 @@
       <workItem from="1752928799825" duration="3320000" />
       <workItem from="1752945666133" duration="2623000" />
       <workItem from="1753210236843" duration="864000" />
-      <workItem from="1753291959889" duration="7548000" />
+      <workItem from="1753291959889" duration="8431000" />
+      <workItem from="1753635155183" duration="6035000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 2">
       <option name="closed" value="true" />
@@ -1183,7 +1210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753295059372</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Chapter 19: -full">
+      <option name="closed" value="true" />
+      <created>1753467123033</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1753467123033</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1204,7 +1239,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Chapter 4 - full" />
     <MESSAGE value="Chapter 5 - full" />
     <MESSAGE value="Chapter 6 - full" />
     <MESSAGE value="Chapter 7: 1-8" />
@@ -1229,7 +1263,8 @@
     <MESSAGE value="Chapter 16: -full" />
     <MESSAGE value="Chapter 18: -3" />
     <MESSAGE value="Chapter 18: -full" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 18: -full" />
+    <MESSAGE value="Chapter 19: -full" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 19: -full" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
