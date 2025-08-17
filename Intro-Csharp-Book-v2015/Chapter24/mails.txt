@@ -1,0 +1,7 @@
+John Smith john_smith@example.com
+Jane Doe jane.doe@example.org
+Ivan Petrov ivan_petrov@host.bg
+Petar Ivanov petar@mydomain.abc
+Maria Georgieva maria@wrong-host.com
+Peter Pan peter_pan@abc.ab
+Invalid User invalid_mail@host
