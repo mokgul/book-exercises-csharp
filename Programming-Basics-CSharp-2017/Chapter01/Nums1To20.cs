@@ -6,7 +6,7 @@ public static class Nums1To20
     {
         for (int i = 1; i <= 20; i++)
         {
-            Console.Write(i + ',');
+            Console.Write(i.ToString().PadLeft(2) + ',');
         }
         Console.WriteLine();
     }
