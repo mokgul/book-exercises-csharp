@@ -16,3 +16,15 @@ TrapezoidArea.Calculate();
 
 // Ex. "Calculate area of rectangle in 2D space
 RectangleArea.CalculateAreaIn2dSpace();
+
+// Ex. "Calculate triangle area"
+TriangleArea.Calculate();
+
+// Ex. "Celsius to Fahrenheit Converter"
+CelsToFahr.Convert();
+
+// Ex. "Radians to Degrees Converter"
+RadToDeg.Convert();
+
+// Ex. "USD to BGN Converter"
+UsdToBgn.Convert();
