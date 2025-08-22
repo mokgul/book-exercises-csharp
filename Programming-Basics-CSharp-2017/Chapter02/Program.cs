@@ -28,3 +28,15 @@ RadToDeg.Convert();
 
 // Ex. "USD to BGN Converter"
 UsdToBgn.Convert();
+
+// Ex. "Currency converter"
+CurrencyConverter.Convert();
+
+// Ex. "Add 1000 days to a date"
+AddDaysToDate.Calculate();
+
+// Ex. "Training Lab"
+SchoolRoom.SolveTask();
+
+// Ex. "Vegetable Market"
+VegetableMarket.SolveTask();
