@@ -3,40 +3,49 @@
 using Chapter02;
 
 // Ex. "Calculate square area"
-SquareArea.Calculate();
+//SquareArea.Calculate();
 
 // Ex. "Inch to cm converter"
-InchToCm.Convert();
+//InchToCm.Convert();
 
 // Ex. "Concatenation of text and numbers"
-Concatenation.Perform();
+//Concatenation.Perform();
 
 // Ex. "Calculate trapezoid area"
-TrapezoidArea.Calculate();
+//TrapezoidArea.Calculate();
 
 // Ex. "Calculate area of rectangle in 2D space
-RectangleArea.CalculateAreaIn2dSpace();
+//RectangleArea.CalculateAreaIn2dSpace();
 
 // Ex. "Calculate triangle area"
-TriangleArea.Calculate();
+//TriangleArea.Calculate();
 
 // Ex. "Celsius to Fahrenheit Converter"
-CelsToFahr.Convert();
+//CelsToFahr.Convert();
 
 // Ex. "Radians to Degrees Converter"
-RadToDeg.Convert();
+//RadToDeg.Convert();
 
 // Ex. "USD to BGN Converter"
-UsdToBgn.Convert();
+//UsdToBgn.Convert();
 
 // Ex. "Currency converter"
-CurrencyConverter.Convert();
+//CurrencyConverter.Convert();
 
 // Ex. "Add 1000 days to a date"
-AddDaysToDate.Calculate();
+//AddDaysToDate.Calculate();
 
 // Ex. "Training Lab"
-SchoolRoom.SolveTask();
+//SchoolRoom.SolveTask();
 
 // Ex. "Vegetable Market"
-VegetableMarket.SolveTask();
+//VegetableMarket.SolveTask();
+
+// Ex. "Tiles repair"
+//Tiles.Repair();
+
+// Ex. "Trip Money"
+//TripMoney.Convert();
+
+// Ex. "Daily rate"
+Salary.Calculate();
