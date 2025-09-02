@@ -42,10 +42,25 @@ using Chapter03;
 //AreaOfFigures.Calculate();
 
 // Ex. "Add 15 minutes to a time"
-TimeAddition.AddMinutes();
+//TimeAddition.AddMinutes();
 
 // Ex. "Compare if three numbers are equal"
-Number.CompareThreeNumbers();
+//Number.CompareThreeNumbers();
 
 // Ex. "Print number (0 - 100) as text"
-Number.PrintNumberAsTextUpTo100();
+//Number.PrintNumberAsTextUpTo100();
+
+// Ex. "Transport Price"
+//TransportPrice.Calculate();
+
+// Ex. "Pool pipes"
+PoolPipes.CalculateVolume();
+
+// Ex. "Sleeping cat Tom"
+SleepingCatTom.CalculatePlayTime();
+
+// Ex. "Harvest"
+Harvest.CalculateWineVolume();
+
+// Ex. "Firm"
+Firm.CanProjectBeFinished();
