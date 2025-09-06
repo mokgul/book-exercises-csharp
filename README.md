@@ -11,7 +11,7 @@ A collection of exercises, code samples, and learning notes from various C# prog
 | -                                      | -                   | 🔜 Finished    | -          | 5 / 17         | –        |
 | -                                      | -                   | 🔜 Finished    | –          | 0 / 27         | –        |
 | -                                      | -                   | 📖 In Progress | –          | 0 / 50         | –        |
-| Programming Basics CSharp v2017        | Svetlin Nakov       | 📖 In Progress | 15-08-2025 | 234 / 1043       | –        |
+| Programming Basics CSharp v2017        | Svetlin Nakov       | 📖 In Progress | 15-08-2025 | 245 / 1043       | –        |
 | Intro CSharp Book v2015                | Svetlin Nakov       | 🔜 Finished    | 30-05-2025 | 1101 / 1101    | 15-08-2025 |
 
 
