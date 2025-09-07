@@ -3,55 +3,55 @@
 using Chapter03;
 
 // Ex. "Is grade excellent"
-//Grade.IsExcellent();
+Grade.IsExcellent();
 
 // Ex. "Is grade excellent or not"
-//Grade.IsExcellentOrNot();
+Grade.IsExcellentOrNot();
 
 // Ex. "Is number even or odd"
-//Number.OddOrEven();
+Number.OddOrEven();
 
 // Ex. "Print bigger number"
-//Number.PrintBiggerNumber();
+Number.PrintBiggerNumber();
 
 // Ex. "Print number as text"
-//Number.PrintNumberAsText();
+Number.PrintNumberAsText();
 
 // Ex. "Bonus points"
-//BonusPoints.Calculate();
+BonusPoints.Calculate();
 
 // Ex. "Sum seconds"
-//SumSeconds.Do();
+SumSeconds.Do();
 
 // Ex. "Currency Converter"
-//CurrencyConverter.Convert();
+CurrencyConverter.Convert();
 
 // Ex. "Password guesser"
-//PasswordGuesser.Guess();
+PasswordGuesser.Guess();
 
 // Ex. "Is number between 100 and 200"
-//Number.IsNumberBetween100And200();
+Number.IsNumberBetween100And200();
 
 // Ex. "Equal words"
-//EqualWords.Compare();
+EqualWords.Compare();
 
 // Ex. "Print info about speed"
-//Speed.GetInfo();
+Speed.GetInfo();
 
 // Ex. "Calculate the area of figures"
-//AreaOfFigures.Calculate();
+AreaOfFigures.Calculate();
 
 // Ex. "Add 15 minutes to a time"
-//TimeAddition.AddMinutes();
+TimeAddition.AddMinutes();
 
 // Ex. "Compare if three numbers are equal"
-//Number.CompareThreeNumbers();
+Number.CompareThreeNumbers();
 
 // Ex. "Print number (0 - 100) as text"
-//Number.PrintNumberAsTextUpTo100();
+Number.PrintNumberAsTextUpTo100();
 
 // Ex. "Transport Price"
-//TransportPrice.Calculate();
+TransportPrice.Calculate();
 
 // Ex. "Pool pipes"
 PoolPipes.CalculateVolume();
