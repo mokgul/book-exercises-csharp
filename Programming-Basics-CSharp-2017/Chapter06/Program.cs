@@ -16,3 +16,18 @@ SymbolFigures.PrintRhombus(4);
 
 // Ex. "Print a yule tree"
 SymbolFigures.PrintYuleTree(4);
+
+// Ex. "Print castle"
+SymbolFigures.PrintCastle(5);
+
+// Ex. "Print butterfly"
+SymbolFigures.PrintButterfly(5);
+
+// Ex. "Print Stop sign"
+SymbolFigures.PrintStopSign(6);
+
+// Ex. "Print arrow"
+SymbolFigures.PrintArrow(9);
+
+// Ex. "Print axe"
+SymbolFigures.PrintAxe(8);
