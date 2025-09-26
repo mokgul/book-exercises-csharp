@@ -18,7 +18,7 @@ A collection of exercises, code samples, and learning notes from various C# prog
 
 ---
 
-# 📘 .NET & C# Learning Roadmap (45 Books)
+# 📘 .NET & C# Learning Roadmap (46 Books)
 
 A complete, progressive path using all your books. Check them off as you go ✅
 
@@ -29,6 +29,7 @@ A complete, progressive path using all your books. Check them off as you go ✅
 - [ ] Programming Basics CSharp v2017.pdf
 - [ ] Programming Basics CSharp v2019.pdf
 - [ ] CSharp Principles Book v2018.pdf
+- [ ] C# Programming Yellow Book
 - [ ] Learn C# for Beginners with Hands-on Project.pdf
 - [ ] Object Oriented Programming C# Succinctly.pdf
 - [ ] The C# Workshop.pdf
